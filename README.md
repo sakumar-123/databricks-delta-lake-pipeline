@@ -5,6 +5,9 @@ End-to-end data engineering pipeline using Medallion Architecture. Implementing 
 
 This project follows the **Medallion Architecture**:
 
+
+![High Level Architecture](Docu/architecture.png)
+
 ### 🥉 Bronze Layer
 - Raw data ingestion  
 - Schema inference and storage as Delta tables  
