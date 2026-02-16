@@ -50,6 +50,27 @@ Managed data governance using Unity Catalog
 - PySpark  
 - Spark SQL  
 - Delta Lake  
-- Unity Catalog  
+- Unity Catalog
+
+- ----
+
+🔗 Connect With Me
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sai-kumar-embadi/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.notion.so/Data-Warehouse-Project-2e3b607b7fd080969cf0cc76a06aa760">
+  <img src="https://img.shields.io/badge/Notion-Portfolio-black?style=for-the-badge&logo=notion&logoColor=white" />
+</a>
+
+</p>
+
+
+
 
 
